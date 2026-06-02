@@ -1,0 +1,8 @@
+name = "proxy-dashboard3"
+main = "src/worker.js"
+compatibility_date = "2026-01-01"
+
+[[d1_databases]]
+binding = "DB"
+database_name = "proxy-dashboard-db"
+database_id = "527baccd-217a-4008-bca3-05f2fa020d50"
